@@ -1,2 +1,3 @@
 second commit
 third commit merge test
+forth line in test.txt
